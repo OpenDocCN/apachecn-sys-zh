@@ -7,13 +7,6 @@
 > 质疑计算机能不能思考，就相当于质疑潜艇能不能游泳。——艾兹格尔·迪科斯特拉
 
 * [在线阅读](https://sys.apachecn.org)
-## 目录
-
-+   [SICP Python 描述 中文版](docs/sicp-py-zh/SUMMARY.md)
-+   [操作系统思考 中文版](docs/think-os-zh/SUMMARY.md)
-+   [从零编写简单的数据库](doc/simple-db-zh/SUMMARY.md)
-+   [计算机操作系统笔记](docs/os-notes/SUMMARY.md)
-
 ## 下载
 
 ### Docker
