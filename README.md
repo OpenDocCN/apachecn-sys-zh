@@ -6,22 +6,22 @@
 > 
 > 质疑计算机能不能思考，就相当于质疑潜艇能不能游泳。——艾兹格尔·迪科斯特拉
 
-* [在线阅读](https://sys.apachecn.org)
+* [在线阅读](https://sys.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-cs-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-cs-zh
+docker pull apachecn0/flygon-cs-zh
+docker run -tid -p <port>:80 apachecn0/flygon-cs-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-cs-zh
-apachecn-cs-zh <port>
+npm install -g flygon-cs-zh
+flygon-cs-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
